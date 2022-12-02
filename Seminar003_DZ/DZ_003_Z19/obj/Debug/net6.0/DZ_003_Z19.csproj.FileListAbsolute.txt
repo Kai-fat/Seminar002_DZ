@@ -1,0 +1,15 @@
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\bin\Debug\net6.0\DZ_003_Z19.exe
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\bin\Debug\net6.0\DZ_003_Z19.deps.json
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\bin\Debug\net6.0\DZ_003_Z19.runtimeconfig.json
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\bin\Debug\net6.0\DZ_003_Z19.dll
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\bin\Debug\net6.0\DZ_003_Z19.pdb
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.csproj.AssemblyReference.cache
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.AssemblyInfoInputs.cache
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.AssemblyInfo.cs
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.csproj.CoreCompileInputs.cache
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.dll
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\refint\DZ_003_Z19.dll
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.pdb
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\DZ_003_Z19.genruntimeconfig.cache
+D:\C# Seminar\Seminar003_DZ\DZ_003_Z19\obj\Debug\net6.0\ref\DZ_003_Z19.dll
