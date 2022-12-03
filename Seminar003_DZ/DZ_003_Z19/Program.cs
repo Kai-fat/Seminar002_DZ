@@ -9,10 +9,10 @@ if ((num / 10000) == (num % 10))
 }
 if ((num / 100) == (num % 10))
 {
-    Console.WriteLine("Полиндром");
+    Console.WriteLine("Число является полиндром");
 }
 else
 {
-    Console.WriteLine("НЕ Полиндром");
+    Console.WriteLine("Число НЕ является полиндром");
 }
 
