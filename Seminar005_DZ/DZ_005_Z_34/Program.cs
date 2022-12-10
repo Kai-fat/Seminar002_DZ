@@ -26,9 +26,3 @@ void PrintArray(int[] array)
     foreach (int el in array)   //этот цикл делаем для просмотра 
         Console.Write($"{el} ");
 }
-
-// int count =0;
-// for(int j = 0; j <array.Length; j++)
-// if(array [j] % 2 == 0)
-// count ++;
-// Console.WriteLine($"всего {array.Length} числа, {count} из них четные");

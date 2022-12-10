@@ -5,7 +5,6 @@
 Console.WriteLine("Введите количество элементов массива");
 int num = Convert.ToInt32(Console.ReadLine());
 NewArray(num);
-
 void NewArray(int num)
 {
     int sum = 0;
