@@ -1,0 +1,15 @@
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\bin\Debug\net6.0\DZ_006Z_1HARD.exe
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\bin\Debug\net6.0\DZ_006Z_1HARD.deps.json
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\bin\Debug\net6.0\DZ_006Z_1HARD.runtimeconfig.json
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\bin\Debug\net6.0\DZ_006Z_1HARD.dll
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\bin\Debug\net6.0\DZ_006Z_1HARD.pdb
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.csproj.AssemblyReference.cache
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.AssemblyInfoInputs.cache
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.AssemblyInfo.cs
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.csproj.CoreCompileInputs.cache
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.dll
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\refint\DZ_006Z_1HARD.dll
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.pdb
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\DZ_006Z_1HARD.genruntimeconfig.cache
+D:\C# Seminar\Seminar006\DZ_006Z_1HARD\obj\Debug\net6.0\ref\DZ_006Z_1HARD.dll
