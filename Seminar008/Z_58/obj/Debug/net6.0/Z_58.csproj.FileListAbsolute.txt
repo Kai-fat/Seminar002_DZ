@@ -1,0 +1,15 @@
+D:\C# Seminar\Seminar008\Z_58\bin\Debug\net6.0\Z_58.exe
+D:\C# Seminar\Seminar008\Z_58\bin\Debug\net6.0\Z_58.deps.json
+D:\C# Seminar\Seminar008\Z_58\bin\Debug\net6.0\Z_58.runtimeconfig.json
+D:\C# Seminar\Seminar008\Z_58\bin\Debug\net6.0\Z_58.dll
+D:\C# Seminar\Seminar008\Z_58\bin\Debug\net6.0\Z_58.pdb
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.csproj.AssemblyReference.cache
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.AssemblyInfoInputs.cache
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.AssemblyInfo.cs
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.csproj.CoreCompileInputs.cache
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.dll
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\refint\Z_58.dll
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.pdb
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\Z_58.genruntimeconfig.cache
+D:\C# Seminar\Seminar008\Z_58\obj\Debug\net6.0\ref\Z_58.dll
