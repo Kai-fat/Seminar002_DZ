@@ -1,0 +1,15 @@
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.csproj.AssemblyReference.cache
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.AssemblyInfoInputs.cache
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.AssemblyInfo.cs
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.csproj.CoreCompileInputs.cache
+D:\C# Seminar\Seminar009_DZ\Z_66\bin\Debug\net6.0\Z_66.exe
+D:\C# Seminar\Seminar009_DZ\Z_66\bin\Debug\net6.0\Z_66.deps.json
+D:\C# Seminar\Seminar009_DZ\Z_66\bin\Debug\net6.0\Z_66.runtimeconfig.json
+D:\C# Seminar\Seminar009_DZ\Z_66\bin\Debug\net6.0\Z_66.dll
+D:\C# Seminar\Seminar009_DZ\Z_66\bin\Debug\net6.0\Z_66.pdb
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.dll
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\refint\Z_66.dll
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.pdb
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\Z_66.genruntimeconfig.cache
+D:\C# Seminar\Seminar009_DZ\Z_66\obj\Debug\net6.0\ref\Z_66.dll
